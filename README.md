@@ -11,12 +11,13 @@
 
 ## II. DANH SÁCH BÀI TẬP HOÀN THÀNH & TỰ ĐÁNH GIÁ
 
-| Bài tập   | Tiêu đề bài tập                                  | Trạng thái | Mức độ hoàn thành (%) |
-| **Bài 1** | QUẢN LÝ ĐẶT PHÒNG KHÁCH SẠN                      | Hoàn thành | 100%                  |
-| **Bài 2** | QUẢN LÝ HỒ SƠ NHÂN SỰ & THÔNG TIN LƯƠNG          | Hoàn thành | 100%                  |
-| **Bài 3** | HỆ THỐNG MDI QUẢN LÝ TRƯỜNG HỌC & ĐÀO TẠO        | Hoàn thành | 100%                  |
-| **Bài 4** | BẢNG ĐIỀU KHIỂN TỔNG HỢP BÁO CÁO KHO HÀNG        | Hoàn thành | 100%                  |
-| **Bài 5** | MÔ PHỎNG GIÁM SÁT HỆ THỐNG CẢNH BÁO IOT REAL-TIME| Hoàn thành | 100%                  |
+| Bài tập | Tiêu đề bài tập | Trạng thái | Mức độ hoàn thành (%) |
+| :--- | :--- | :---: | :---: |
+| **Bài 1** | QUẢN LÝ ĐẶT PHÒNG KHÁCH SẠN | Hoàn thành | 100% |
+| **Bài 2** | QUẢN LÝ HỒ SƠ NHÂN SỰ & THÔNG TIN LƯƠNG | Hoàn thành | 100% |
+| **Bài 3** | HỆ THỐNG MDI QUẢN LÝ TRƯỜNG HỌC & ĐÀO TẠO | Hoàn thành | 100% |
+| **Bài 4** | BẢNG ĐIỀU KHIỂN TỔNG HỢP BÁO CÁO KHO HÀNG | Hoàn thành | 100% |
+| **Bài 5** | MÔ PHỎNG GIÁM SÁT HỆ THỐNG CẢNH BÁO IOT REAL-TIME | Hoàn thành | 100% |
 
 ---
 
